@@ -1,4 +1,3 @@
-opencv-python
 jupyter
 tensorboard
 matplotlib
@@ -6,15 +5,9 @@ matplotlib
 tqdm  # progressbar
 transformers  # tokenizer
 
-# gpu profiler
-nvidia-ml-py3
-pynvml
-psutil
-scikit-learn
-
 torch
 torchvision
-jupyter
+
 
 tqdm
 numpy
